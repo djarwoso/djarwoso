@@ -1,9 +1,7 @@
 # Hi there, 
 ## About me:
-- 🔭 I’m currently working 
-- 🌱 I’m currently 
-- 👯 I’m looking to 
-- 🤔 I’m looking for 
+- 🔭 I’m currently Jobs Seeker
+- 🌱 I’m currently Freelancer
 - 📫 How to reach me: jarwoso@gmail.com
 
 ## Education:

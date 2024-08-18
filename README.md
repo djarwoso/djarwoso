@@ -1,7 +1,6 @@
 # Hi there, 
 ## About me:
 - 🔭 I’m currently Jobs Seeker
-- 🌱 I’m currently Freelancer
 - 📫 How to reach me: jarwoso@gmail.com
 
 ## Education:
